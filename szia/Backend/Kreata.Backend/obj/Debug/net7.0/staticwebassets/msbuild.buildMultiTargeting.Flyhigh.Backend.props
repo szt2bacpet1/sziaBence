@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Flyhigh.Backend.props" />
+</Project>

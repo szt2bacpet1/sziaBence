@@ -1,0 +1,59 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:controlPanelViewModels="clr-namespace:Flyhigh.Desktop.ViewModels.ControlPanel"
+                    xmlns:FelhasznalokViewModels="clr-namespace:Flyhigh.Desktop.ViewModels.Felhasznalok"
+                    xmlns:LegiViewModels="clr-namespace:Flyhigh.Desktop.ViewModels.Legijaratok"
+                    xmlns:JegyViewModels="clr-namespace:Flyhigh.Desktop.ViewModels.JegyKezeles"
+                    xmlns:controlPanelView="clr-namespace:Flyhigh.Desktop.Views.ControlPanel"
+                    xmlns:FelhasznalokView="clr-namespace:Flyhigh.Desktop.Views.Felhasznalok"
+                    xmlns:LegiView="clr-namespace:Flyhigh.Desktop.Views.Legijaratok"
+                    xmlns:jegykezelesview="clr-namespace:Flyhigh.Desktop.Views.JegyKezeles"
+                    xmlns:administrationViewModel="clr-namespace:Flyhigh.Desktop.ViewModels.Administration"
+                    xmlns:administrationView="clr-namespace:Flyhigh.Desktop.Views.Administration"
+                    >
+    
+    <DataTemplate DataType="{x:Type controlPanelViewModels:ControlPanelViewModel}">
+        <controlPanelView:ControlPanelView/>
+    </DataTemplate>
+    <!-- Felhasználok kezelése-->
+    <DataTemplate DataType="{x:Type FelhasznalokViewModels:FelhasznalokViewModel}">
+        <FelhasznalokView:FelhasznalokView/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type FelhasznalokViewModels:JogosultsagokViewModel}">
+        <FelhasznalokView:JogosultsagokView/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type FelhasznalokViewModels:TeacherViewModel}">
+        <FelhasznalokView:TeacherView/>
+    </DataTemplate>
+    <!-- Jegykezelés -->
+    <DataTemplate DataType="{x:Type JegyViewModels:JegyKezelesViewModel}">
+        <jegykezelesview:JegyKezelesView/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type JegyViewModels:JegyViewModel}">
+        <jegykezelesview:Jegykezeles/>
+    </DataTemplate>
+
+    <!-- Légijáratok -->
+    <DataTemplate DataType="{x:Type LegiViewModels:LegijaratokViewModel}">
+        <LegiView:LegijaratokView/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type LegiViewModels:RepulotarsasagViewModel}">
+        <LegiView:TaughtClassesView/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type LegiViewModels:GepAdatokViewModel}">
+        <LegiView:GepAdatokView/>
+    </DataTemplate>
+    <DataTemplate DataType="{x:Type LegiViewModels:TaughtClassesViewModel}">
+        <LegiView:RepulotarsasagView/>
+    </DataTemplate>
+    <!-- Adminisztrációs -->
+    <DataTemplate DataType="{x:Type administrationViewModel:AdministrationViewModel}">
+        <administrationView:AdministrationView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type administrationViewModel:GepAdatokTipusViewModel}">
+        <administrationView:GepAdatokTipusView/>
+    </DataTemplate>
+
+
+</ResourceDictionary>

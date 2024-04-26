@@ -1,0 +1,51 @@
+﻿ <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="StandardButtonBackground" Color="#1D2243"></SolidColorBrush>  <!-- Almenü keretszin -->
+    <SolidColorBrush x:Key="StandardButtonEnabled" Color="#B7B9CC"></SolidColorBrush> <!-- Almenü betűszin -->
+    <SolidColorBrush x:Key="StandardButtonNotEnabled" Color="Pink"></SolidColorBrush>
+    <SolidColorBrush x:Key="StandardButtonFocused" Color="#236354"></SolidColorBrush>
+        <!--Background Colors-->
+    <SolidColorBrush x:Key="backgroundPrimaryColor" Color="Azure"/>
+    <SolidColorBrush x:Key="HeaderColor" Color="#191A33"/>    <!-- Felső léc keretszin -->
+    <SolidColorBrush x:Key="backgroundSecondaryColor" Color="BlanchedAlmond"/>
+    <SolidColorBrush x:Key="backgroundColorThird" Color="#191A33"/> <!-- Almenü keretszin -->
+    <Color x:Key="backgroundPrimaryColor1">#191A33</Color>   <!-- Navbar háttér -->
+    <Color x:Key="backgroundPrimaryColor2">#191A33</Color>
+    <Color x:Key="backgroundPrimaryColor3">#0C0E1B</Color>
+    <Color x:Key="backgroundSecondaryColor1">#191A33</Color>
+    <Color x:Key="backgroundSecondaryColor2">#191A33</Color>
+    <Color x:Key="backgroundSecondaryColor3">#0C0E1B</Color>
+    <!--Window Border Colors-->
+    <Color x:Key="borderColor1">#191A33</Color>
+    <Color x:Key="borderColor2">#191A33</Color>
+    <Color x:Key="borderColor3">#191A33</Color>
+    <Color x:Key="borderColor4">#191A33</Color>
+    <!-- -->
+    <!--Color Palette-->
+    <SolidColorBrush x:Key="colorRed" Color="red"/>
+    <SolidColorBrush x:Key="colorDarkRed" Color="green"/>
+    <SolidColorBrush x:Key="colorGreen" Color="#6E5AA3"/>
+    <SolidColorBrush x:Key="colorMidleGreen" Color="#6E5AA3"/>  <!-- Ikonszinek-->
+    <SolidColorBrush x:Key="colorDarkGreen" Color="#6E5BA3"/> <!-- Felhasznalo profildiszito kör-->
+    <!-- Control button color-->
+    <SolidColorBrush x:Key="controlBackgraoundColor" Color="red"/>
+    <SolidColorBrush x:Key="controlHoverColor" Color="#654E9B"/> <!-- Kilepes gomb szine -->
+    <!--Font Colors-->
+    <SolidColorBrush x:Key="titleColor1" Color="Yellow"/>
+    <SolidColorBrush x:Key="titleColor2" Color="Brown"/>
+    <SolidColorBrush x:Key="titleColor3" Color="#fff"/>   <!-- HooverColor font color -->
+    <SolidColorBrush x:Key="plainTextColor1" Color="#fff"/>
+    <SolidColorBrush x:Key="plainTextColor2" Color="#FABD10"/>
+    <SolidColorBrush x:Key="menuButtonIcon" Color="#58BBA6"/>
+    <SolidColorBrush x:Key="plainTextColor3" Color="#6E5BA3"/> <!-- Navbar font color -->
+    <SolidColorBrush x:Key="subMenuButton" Color="#fff"/>  <!-- Almenü gomb szöveg -->
+
+    <!--Panel Colors-->
+    <SolidColorBrush x:Key="panelColor" Color="Beige"/>
+    <SolidColorBrush x:Key="panelOverColor" Color="#3C336B"/> <!-- Hoover Color -->
+    <SolidColorBrush x:Key="panelActiveColor" Color="#0C0E1B"/>   <!-- Active PanelColor -->
+    <!--Button Colors-->
+    <!--TextBox Colors-->
+    <!--Etc-->
+    
+</ResourceDictionary>

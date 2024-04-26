@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Asztali\\KretaBasicSchoolSystem.Desktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\repos\\managers\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\repos\\ifelhasznalorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\repos\\managers\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\repos\\felhasznalorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\extensions\\flyhighbackendextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\context\\flyhighmysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\context\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\context\\flyhighcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\context\\flyhighinmemorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\controllers\\repulotarsasagconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\repos\\repulotarsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03BD55-D45E-4C9B-896C-B799299269A4}|..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\backend\\kreata.backend\\flyhigh.backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D2FA6F-9BDC-441D-9B8A-D9F0346648D9}|Flyhigh.Desktop.csproj|c:\\users\\bacsk\\desktop\\flyhigh-makan-mulati-bacskai\\forr\u00E1sk\u00F3d\\asztali\\kretabasicschoolsystem.desktop\\viewmodels\\jegykezeles\\jegykezelesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D2FA6F-9BDC-441D-9B8A-D9F0346648D9}|Flyhigh.Desktop.csproj|solutionrelative:viewmodels\\jegykezeles\\jegykezelesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FelhasznaloRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Repos\\FelhasznaloRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Repos\\FelhasznaloRepo.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Repos\\FelhasznaloRepo.cs",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Repos\\FelhasznaloRepo.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:38:03.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFelhasznaloRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Repos\\IFelhasznaloRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Repos\\IFelhasznaloRepo.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Repos\\IFelhasznaloRepo.cs",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Repos\\IFelhasznaloRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:37:59.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Repos\\Managers\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Repos\\Managers\\IRepositoryManager.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Repos\\Managers\\IRepositoryManager.cs",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Repos\\Managers\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:35:25.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Repos\\Managers\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Repos\\Managers\\RepositoryManager.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Repos\\Managers\\RepositoryManager.cs",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Repos\\Managers\\RepositoryManager.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:35:16.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:34:07.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModelBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Context\\ModelBuilderExtension.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Context\\ModelBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Context\\ModelBuilderExtension.cs",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Context\\ModelBuilderExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:34:05.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlyhighContext.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Context\\FlyhighContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Context\\FlyhighContext.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Context\\FlyhighContext.cs",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Context\\FlyhighContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:33:56.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepulotarsasagConroller.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Controllers\\RepulotarsasagConroller.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Controllers\\RepulotarsasagConroller.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Controllers\\RepulotarsasagConroller.cs",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Controllers\\RepulotarsasagConroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:32:35.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlyhighBackendExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Extensions\\FlyhighBackendExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Extensions\\FlyhighBackendExtensions.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Extensions\\FlyhighBackendExtensions.cs",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Extensions\\FlyhighBackendExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:05:47.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlyhighMySqlContext.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Context\\FlyhighMySqlContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Context\\FlyhighMySqlContext.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Context\\FlyhighMySqlContext.cs",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Context\\FlyhighMySqlContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:55:33.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FlyhighInMemoryContext.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Context\\FlyhighInMemoryContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Context\\FlyhighInMemoryContext.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Context\\FlyhighInMemoryContext.cs",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Context\\FlyhighInMemoryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:00:55.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepulotarsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Repos\\RepulotarsRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Repos\\RepulotarsRepo.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Repos\\RepulotarsRepo.cs",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Repos\\RepulotarsRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:17:36.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Flyhigh.Backend.csproj",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj",
+              "RelativeToolTip": "..\\..\\Backend\\Kreata.Backend\\Flyhigh.Backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T09:30:33.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JegyKezelesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Asztali\\KretaBasicSchoolSystem.Desktop\\ViewModels\\JegyKezeles\\JegyKezelesViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\JegyKezeles\\JegyKezelesViewModel.cs",
+              "ToolTip": "C:\\Users\\bacsk\\Desktop\\flyhigh-makan-mulati-bacskai\\Forr\u00E1sk\u00F3d\\Asztali\\KretaBasicSchoolSystem.Desktop\\ViewModels\\JegyKezeles\\JegyKezelesViewModel.cs",
+              "RelativeToolTip": "ViewModels\\JegyKezeles\\JegyKezelesViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:08:15.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
